@@ -5,9 +5,9 @@ auto: true
 rdiscount:
   extensions: [smart]
 
-name: Zach Holman
-url: http://zachholman.com
-description: A fantastic blog that is fantastic.
-twitter: holman
-github: holman
-gravatar_url: http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c
+name: Sameer Segal
+url: http://sameersegal.github.io
+description: Hackers for Impact.
+twitter: sameersegal
+github: sameersegal
+gravatar_url: http://gravatar.com/avatar/4a3cc45f2c6af14087c2e365341b1b02
